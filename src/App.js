@@ -7,6 +7,7 @@ import Page4 from './components/Page4';
 import Page5 from './components/Page5';
 import MyForm from"./components/MyForm";
 import ContactForm from './components/ContactForm';
+import CsvReader from './components/CsvReader'
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
           <Route exact path="page5" element={<Page5 />} />
           <Route exact path="myForm" element={<MyForm />} />
           <Route exact path="ContactForm" element={<ContactForm />} />
+          <Route exact path="Exercise1" element={<CsvReader />} />
         </Routes>
         <div className="list">
           <ul>
@@ -28,10 +30,11 @@ function App() {
             <li><Link to="page1">Page 1 Function</Link></li>
             <li><Link to="page2">Page 2 LifeCycle</Link></li>
             <li><Link to="page3">Page 3 Class</Link></li>
-            <li><Link to="page4">Page 4 Props & States</Link></li>
+            <li><Link to="page4">Page 4 Props and States</Link></li>
             <li><Link to="page5">Page 5 Table</Link></li>
             <li><Link to="myForm">Page 6 MyForm</Link></li>
             <li><Link to="ContactForm">Page 7 ContactForm</Link></li>
+            <li><Link to="Exercise1">Page 8 Exercise1</Link></li>
           </ul>
         </div>
       </Router>

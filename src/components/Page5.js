@@ -29,7 +29,7 @@ class Table extends Component {
                     </tr>
                 </thead>
                 <tbody>
-                    {body.map(row => <TableRow row={row} />)}
+                    {body.map((row,i) => <TableRow key={i} row={row} />)}
                 </tbody>
             </table>
         );
@@ -40,8 +40,8 @@ class TableRow extends Component {
     render() {
         var row = this.props.row;
         return (
-            <tr>
-                {row.map(val => <td>{val}</td>)}
+            <tr >
+                {row.map((val) => <td key={val}>{val}</td>)}
             </tr>
         )
     }
