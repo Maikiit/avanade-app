@@ -68,3 +68,38 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# CURSO REACT ENLACES
+## Extras
+- Acento circunflejo y tilde [https://www.iteramos.com/pregunta/9987/diferencia-entre-tilde--y-acento-circunflejo--en-packagejson](https://www.iteramos.com/pregunta/9987/diferencia-entre-tilde--y-acento-circunflejo--en-packagejson)
+- netflix [https://cloud.spring.io/spring-cloud-static/spring-cloud-netflix/2.2.0.M1](https://cloud.spring.io/spring-cloud-static/spring-cloud-netflix/2.2.0.M1)
+- Google chrome server: [https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en)
+
+- AIRBNB style [https://github.com/airbnb/javascript/tree/master/react](https://github.com/airbnb/javascript/tree/master/react)
+- ELK (sistema de logs) [https://www.elastic.co/es/what-is/elk-stack](https://www.elastic.co/es/what-is/elk-stack)
+## REACT TEORÍA
+- REACT que es, y para qué sirve [https://tech.tribalyte.eu/blog-que-es-react](https://tech.tribalyte.eu/blog-que-es-react)
+
+- Estructura Proyecto React [https://javadesde0.com/analizando-al-estructura-de-un-proyecto-de-reactjs](https://javadesde0.com/analizando-al-estructura-de-un-proyecto-de-reactjs)
+
+- Estructura de carpetas [https://latteandcode.medium.com/reactjs-la-estructura-de-carpetas-con-la-que-me-siento-mas-comodo-2a8783ad6d45](https://latteandcode.medium.com/reactjs-la-estructura-de-carpetas-con-la-que-me-siento-mas-comodo-2a8783ad6d45)
+
+- Ciclos de vida [https://mauriciogc.medium.com/3-react-ciclo-de-vida-de-un-componente-propiedades-y-estado-a1b1d9965af1](https://mauriciogc.medium.com/3-react-ciclo-de-vida-de-un-componente-propiedades-y-estado-a1b1d9965af1)
+
+### Testing
+
+- JEST: [https://jestjs.io/es-ES/docs/tutorial-react](https://jestjs.io/es-ES/docs/tutorial-react)
+
+### Style
+
+- MUI [https://mui.com/](https://mui.com/)
+
+- Bootstrap [https://react-bootstrap.github.io/](https://react-bootstrap.github.io/)
+
+- Fluent UI [https://developer.microsoft.com/en-us/fluentui#/styles/web](https://developer.microsoft.com/en-us/fluentui#/styles/web)
+
+
+### Material de uso
+- BTC [https://query1.finance.yahoo.com/v7/finance/download/BTC-USD?period1=1606050138&period2=1637586138&interval=1d&events=history&includeAdjustedClose=true](https://query1.finance.yahoo.com/v7/finance/download/BTC-USD?period1=1606050138&period2=1637586138&interval=1d&events=history&includeAdjustedClose=true)
+
